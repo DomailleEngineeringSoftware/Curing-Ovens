@@ -1,2 +1,1 @@
-# Curing-Ovens
-Domaille Engineering Curing Oven Software
+Copy files to USB flash drive and then re-load software based on provided procedure.
